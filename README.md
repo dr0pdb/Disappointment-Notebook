@@ -3,8 +3,8 @@ Team Dissapointment
 - Contest: ACM-ICPC 2017
 - Qualifiers rank: 811
 
-Members                         Handle
+Members  
 -------
-- G.K.Viswak Hanuamanth         viSkey
-- Saurav Tiwary                 srv_twry
-- Shashank Saxena               kyro1202
+- G.K.Viswak Hanuamanth
+- Saurav Tiwary
+- Shashank Saxena
