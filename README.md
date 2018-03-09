@@ -5,6 +5,6 @@ Team Dissapointment
 
 Members  
 -------
-- G.K.Viswak Hanuamanth
+- G.K.Viswak Hanumanth
 - Saurav Tiwary
 - Shashank Saxena
